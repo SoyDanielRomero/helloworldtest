@@ -10,7 +10,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test especified\""
+    "test": "echo \"Error: no test especified\"",
+    "start": "node http-server.js"
   },
   "author": "jrw@mit.edu",
   "license": "MIT"
